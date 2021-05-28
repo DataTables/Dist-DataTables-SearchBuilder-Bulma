@@ -19,7 +19,7 @@ npm install datatables.net-searchbuilder-bm
 
 ```
 var $ = require( 'jquery' );
-var dt = require( 'datatables.net-searchbuilder-bm}' )( window, $ );
+var dt = require( 'datatables.net-searchbuilder-bm' )( window, $ );
 ```
 
 ### bower
