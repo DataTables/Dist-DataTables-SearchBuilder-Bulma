@@ -1,0 +1,48 @@
+{
+    "name": "datatables.net-searchbuilder-bm",
+    "description": "SearchBuilder for DataTables with styling for [Bulma](https://bulma.io/)",
+    "main": "js/searchBuilder.bulma.js",
+    "style": "css/searchBuilder.bulma.css",
+    "version": "1.0.1",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js"
+    ],
+    "keywords": [
+        "SearchBuilder",
+ "Filtering",
+ "Search",
+        "Bulma",
+        "Datatables",
+        "jQuery",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-searchbuilder": ">=1.0.1",
+        "datatables.net-bm": ">=1.10.24",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DataTables/Dist-DataTables-SearchBuilder-Bulma.git"
+    }
+}
