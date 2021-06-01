@@ -3,6 +3,7 @@
     "description": "SearchBuilder for DataTables with styling for [Bulma](https://bulma.io/)",
     "main": "js/searchBuilder.bulma.js",
     "style": "css/searchBuilder.bulma.css",
+    "types": "./types/searchBuilder.bulma.d.ts",
     "version": "1.0.1",
     "files": [
         "css/**/*.css",
