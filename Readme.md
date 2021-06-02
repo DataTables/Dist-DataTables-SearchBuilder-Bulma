@@ -1,6 +1,6 @@
 # SearchBuilder for DataTables with styling for [Bulma](https://bulma.io/)
 
-This package contains a built distribution of the [SearchBuilder extension](https://datatables.net/extensions/SearchBuilder) for [DataTables](https://datatables.net/) with styling for [Bulma](https://bulma.io/).
+This package contains a built distribution of the [SearchBuilder extension](https://datatables.net/extensions/searchbuilder) for [DataTables](https://datatables.net/) with styling for [Bulma](https://bulma.io/).
 
 SearchBuilder adds user defined complex search to the DataTable with the capability to search the DataTable by creating groups and conditions.
 
