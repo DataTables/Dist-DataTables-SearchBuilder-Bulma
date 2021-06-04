@@ -4,15 +4,15 @@
     "main": "js/searchBuilder.bulma.js",
     "style": "css/searchBuilder.bulma.css",
     "types": "./types/searchBuilder.bulma.d.ts",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "SearchBuilder",
- "Filtering",
- "Search",
+        "Filtering",
+        "Search",
         "Bulma",
         "Datatables",
         "jQuery",
@@ -21,8 +21,6 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-searchbuilder": ">=1.0.1",
-        "datatables.net-bm": ">=1.10.24",
         "jquery": ">=1.7"
     },
     "moduleType": [
