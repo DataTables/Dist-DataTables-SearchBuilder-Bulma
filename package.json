@@ -4,7 +4,7 @@
     "main": "js/searchBuilder.bulma.js",
     "style": "css/searchBuilder.bulma.css",
     "types": "./types/searchBuilder.bulma.d.ts",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
