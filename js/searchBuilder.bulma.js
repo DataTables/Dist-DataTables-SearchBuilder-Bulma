@@ -64,6 +64,7 @@ $.extend(true, DataTable.Criteria.classes, {
     container: 'dtsb-criteria',
     "delete": 'button dtsb-delete',
     left: 'button dtsb-left',
+    search: 'button dtsb-search',
     right: 'button dtsb-right'
 });
 
