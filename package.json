@@ -5,7 +5,7 @@
     "module": "js/searchBuilder.bulma.mjs",
     "style": "css/searchBuilder.bulma.css",
     "types": "./types/searchBuilder.bulma.d.ts",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -24,8 +24,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-searchbuilder": "1.8.1",
-        "datatables.net-bm": "^2.1",
+        "datatables.net-searchbuilder": "1.8.2",
+        "datatables.net-bm": "^2",
         "jquery": ">=1.7"
     },
     "moduleType": [
