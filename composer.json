@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-searchbuilder-bm",
-    "description": "SearchBuilder for DataTables with styling for [Bulma](https://bulma.io/)",
+    "description": "SearchBuilder for DataTables with styling for Bulma",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-SearchBuilder-Bulma"
