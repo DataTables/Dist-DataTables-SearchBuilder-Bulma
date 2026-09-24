@@ -39,9 +39,10 @@
     "exports": {
         ".": {
             "types": "./types/searchBuilder.bulma.d.ts",
+            "style": "./css/searchBuilder.bulma.css",
             "import": "./js/searchBuilder.bulma.mjs",
-            "default": "./js/searchBuilder.bulma.mjs",
-            "require": "./js/searchBuilder.bulma.js"
+            "require": "./js/searchBuilder.bulma.js",
+            "default": "./js/searchBuilder.bulma.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
